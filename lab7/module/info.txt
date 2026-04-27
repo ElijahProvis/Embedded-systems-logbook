@@ -1,0 +1,2 @@
+module provided in tutorial sheet
+Atuba, S. (2024) Lab 7. Embedded Systems Module (UFMEY1-30-2). School of Engineering, UWE Bristol. Unpublished
